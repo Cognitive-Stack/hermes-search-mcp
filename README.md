@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cognitive-stack-hermes-search-mcp-badge.png)](https://mseep.ai/app/cognitive-stack-hermes-search-mcp)
+
 # Hermes Search MCP Server 🔍
 
 > 🔌 **Compatible with Cline, Cursor, Claude Desktop, and any other MCP Clients!**
